@@ -1,9 +1,11 @@
-divx4linux: Divx4Linux 2003-04-28
+divx4linux: DivX4linux (DivX video codec for Linux)
 divx4linux:
-divx4linux: DivX decoder/encoder library and headers.
+divx4linux: DivX is the brand name of the world's most popular video
+divx4linux: compression technology. At its core, DivX is a codec (short
+divx4linux: for compression/decompression) - a piece of software that
+divx4linux: compresses video from virtually any source down to a size
+divx4linux: that is transportable over the Internet without reducing
+divx4linux: the original video's visual quality.
 divx4linux:
-divx4linux:
-divx4linux: ---
-divx4linux: Package build by George D. Sotirov <gdsotirov@dir.bg>
-divx4linux: Build date: 2005-03-15 22:00 EET
+divx4linux: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
 divx4linux:
